@@ -1,0 +1,4 @@
+# .envrc.example
+export AUTH0_DOMAIN=dummy
+export AUTH0_CLIENT_ID=dummy
+export AUTH0_CLIENT_SECRET=dummy
